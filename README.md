@@ -124,9 +124,7 @@ Plugins are bundled as a single ES2020 module and run inside a QuickJS sandbox w
 Download Motrix from [motrix.app](https://motrix.app) and choose the package for your operating system. Most Mac users should choose the Apple Silicon build; Intel builds are available for older Macs with Intel processors.
 
 After the remaining release gates pass, the current beta desktop packages
-will be distributed through the GitHub prerelease linked above. Snap is not
-published for this beta; prerelease tag runs stop after source validation and
-do not build or publish Snap artifacts. Choose the package that matches your
+will be distributed through the GitHub prerelease linked above. Choose the package that matches your
 operating system and architecture:
 
 | Platform | Architectures | Packages / channel | Recommendation |
